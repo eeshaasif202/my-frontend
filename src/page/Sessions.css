@@ -1,0 +1,21 @@
+.Ap_containerright{
+    flex: 1;
+    padding: 20px;
+}
+.S_lowerrightcontainer{
+    width: 80%;
+   
+}
+.S_upcoming-session table{
+    width: max-content;
+    width: 100%;
+
+}
+
+.S_upcoming-session th,
+.S_upcoming-session td {
+    border: 1px solid #ddd;
+    padding: 5px;
+    height: 20px;
+}
+

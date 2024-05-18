@@ -1,0 +1,149 @@
+
+
+* {
+   margin: 0px;
+}
+
+.maincontainer {
+   /* width: max-content; */
+   display: flex;
+   width: 50%;
+   height: 650px;
+ /* background-image: url('/fyphms/src/Components/Assets/docBg.jpg'); */
+}
+
+.container {
+   display: flex;
+   flex-direction: column;
+   /* margin: auto auto; */
+
+   /* padding-bottom: 30px; */
+   background-color: #e2e1e1;
+   align-self: center;
+   width: 40%;
+   height: auto;
+   border: 6px solid #489ae7;
+   border-radius: 50px;
+   overflow: hidden;
+   background: transparent;
+}
+
+
+
+.header {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 100%;
+   gap: 9px;
+   margin-top: 30px;
+}
+
+.text {
+   color: #489ae7;
+   font-size: 48px;
+   font-weight: 700;
+}
+
+
+.underline {
+   background-color: #489ae7;
+   width: 100px;
+   height: 10px;
+   border-radius: 20px;
+}
+
+img {
+   width: 20px;
+   height: 20px;
+}
+
+.inputs {
+   display: flex;
+   flex-direction: column;
+   margin-top: 20px;
+   gap: 20px;
+   /* border: 2px solid #797979; */
+}
+
+.input {
+   display: flex;
+   align-items: center;
+   width: 90%;
+   margin: auto;
+   height: 54px;
+   /* background-color: #eaeaea; */
+   border-radius: 6px;
+   background: transparent;
+   border: 1px solid black;
+}
+
+.input img {
+   margin: 0px 30px;
+}
+
+.input input, select,option {
+   height: 50px;
+   width: 400px;
+   background: transparent;
+   color: (#797979);
+   font-size: 20px;
+   border: none;
+   outline: none;
+}
+
+
+.forgotpassword {
+   font-size: 18px;
+   margin-top: 30px;
+   padding-left: 60px;
+   color: #797979;
+   align-items: center;
+   /* margin: auto; */
+}
+
+.forgotpassword span {
+   color: #4c00b4;
+   cursor: pointer;
+
+
+}
+.rolesinfo{
+color: #ffffff;
+margin: -15px;
+text-align: center;
+}
+
+.submit-container {
+   display: flex;
+   /* margin: 60px auto; */
+   gap: 9x;
+}
+
+.submit {
+   display: flex;
+   width: 220px;
+   height: 60px;
+   justify-content: center;
+   color: white;
+   align-items: center;
+   gap: 20px;
+   background-color: #4c00b4;
+   border-radius: 50px;
+   font-weight: 700;
+   cursor: pointer;
+   margin: 20px;
+}
+
+.gray {
+   background-color: #eaeaea;
+   color: #676767;
+}
+
+.gray {
+   background-color: #eaeaea;
+   color: #676767;
+}
+.D_container{
+   display: flex;
+}

@@ -1,0 +1,34 @@
+.addroomform{
+    width: 60%;
+    background-color: rgb(231, 231, 231);
+
+}
+.addroomform form{
+    justify-content: center;
+}
+
+.inputs{
+    width: 100%;
+ 
+
+}
+.inputs option{
+    width: 100%;
+    
+
+}  
+.inputs select{
+    width: 100%;
+    
+
+}  
+.submitbedform button{
+width: 30%;
+align-items: center;
+justify-content: center;
+background-color: #489ae7;
+color: #ffffff;
+border: none;
+margin: 15px 5px;
+padding: 10px;
+}

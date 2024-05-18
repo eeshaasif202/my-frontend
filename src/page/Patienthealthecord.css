@@ -1,0 +1,36 @@
+.Patient_health_record_data table {
+    width: max-content;
+    width: 80%;
+
+}
+
+.Patient_health_record_data th,
+.Patient_health_record_data td {
+    border: 1px solid #ddd;
+    padding: 5px;
+    height: 20px;
+}
+.Button{
+    padding: 5px 10px;
+    margin: 10px 10px;
+}
+.Button button{
+    background-color: #489ae7;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0px 8px;
+}
+ .add button{
+    background-color: #0cd42e;
+
+}
+ .delete button{
+    background-color: #d4230c;
+
+}
+
+
+

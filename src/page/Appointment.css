@@ -1,0 +1,27 @@
+.Ap_containerright{
+    flex: 1;
+    padding: 20px;
+}
+.Ap_lowerleftcontainer{
+    width: 100%;
+   
+}
+.Ap_upcoming-appointments table{
+    width: max-content;
+    width: 80%;
+
+}
+.Ap_upcoming-appointments button{
+    background-color: #489ae7;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.Ap_upcoming-appointments th,
+.Ap_upcoming-appointments td {
+    border: 1px solid #ddd;
+    padding: 5px;
+    height: 20px;
+}

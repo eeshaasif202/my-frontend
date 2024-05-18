@@ -1,0 +1,28 @@
+
+
+
+.addappointmentform{
+    width: 60%;
+    background-color: rgb(231, 231, 231);
+   
+}
+.addappointmentform form{
+    justify-content: center;
+}
+
+.inputs{
+    width: 100%;
+ 
+
+}
+  
+.submitbedform button{
+width: 30%;
+align-items: center;
+justify-content: center;
+background-color: #489ae7;
+color: #ffffff;
+border: none;
+margin: 15px 5px;
+padding: 10px;
+}
